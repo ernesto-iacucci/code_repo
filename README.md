@@ -1,2 +1,2 @@
 # code_repo
-public code repo
+This is my public code repo
